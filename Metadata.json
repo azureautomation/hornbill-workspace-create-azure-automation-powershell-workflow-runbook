@@ -1,0 +1,20 @@
+{
+    "Author": "Hornbill Service Management",
+    "ContentSize": 2506,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/hornbill-workspace-create-azure-automation-powershell-workflow-runbook/master/Hornbill_WorkspaceCreate_Workflow.ps1",
+    "DownloadCount": 621,
+    "Id": "Hornbill-Workspace-Create-32f630dd",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 429,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-10-13T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Azure Powershell Workflow Runbook to create a new workspace on a Hornbill Instance",
+    "Title": "Hornbill Workspace Create - Azure Automation Powershell Workflow Runbook",
+    "UpdatedDate": "2017-10-13T00:00:00",
+    "Url": "https://github.com/azureautomation/hornbill-workspace-create-azure-automation-powershell-workflow-runbook",
+    "UserTags": "Azure, Microsoft Azure, Powershell"
+}
